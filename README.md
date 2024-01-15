@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **SQL e Python**
 
-- 📫 Posso falar comigo por **contato.diogoscosta@gmail.com**
+- 📫 Pode falar comigo pelo email: **contato.diogoscosta@gmail.com**
 
 - 📄 Conheça minhas experiências [https://www.linkedin. com/in/diogo-scosta/](https://www.linkedin.com/in/diogo-scosta/)
 
